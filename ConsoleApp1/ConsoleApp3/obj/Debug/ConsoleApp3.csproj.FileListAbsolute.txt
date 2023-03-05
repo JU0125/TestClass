@@ -1,0 +1,6 @@
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

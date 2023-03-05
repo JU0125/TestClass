@@ -1,0 +1,7 @@
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\jenny.huang\Desktop\執摘\Test Class\ConsoleApp1\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
